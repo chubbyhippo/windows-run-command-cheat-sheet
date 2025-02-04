@@ -2,8 +2,6 @@
 
 The **Run Command** dialog in Windows allows you to quickly launch system utilities, control panels, folders, and specific settings. Open it by pressing `Win + R`.
 
-Below is a list of common **Run commands** for quick access to different tools and directories.
-
 ---
 
 ## **Shell Commands**
